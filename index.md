@@ -4,7 +4,7 @@ title: Home
 ---
 
 <p align="center">
-  <img src="/assets/images/WhatsApp Image 2025-12-07 at 09.19.01.jpeg" alt="My headshot" width="200">
+  <img src="/assets/images/profile.png" alt="My headshot" width="200">
 </p>
 
 # Hi, I’m RENUKA VELU
