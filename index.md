@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<p align="center">
+<p align="left">
   <img src="/assets/images/profile.png" alt="My headshot" width="200">
 </p>
 
@@ -11,7 +11,7 @@ title: Home
 
 Welcome to my space on the internet. This is where I collect my projects, thoughts, photos, and memories.
 
-- 👉 [About me](about)
-- 🧠 [Projects](projects)
-- ✍️ [Journal](journal)
-- 📸 [Gallery](gallery)
+-  [About me](about)
+-  [Projects](projects)
+-  [Journal](journal)
+-  [Gallery](gallery)
